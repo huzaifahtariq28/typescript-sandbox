@@ -104,7 +104,7 @@ function render(document: unknown) {
 // Never Type
 
 function reject(message: string): never {
-  throw Error(message);
+  throw new Error(message);
 }
 
 function processEvents(): never {
