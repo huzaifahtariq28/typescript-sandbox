@@ -6,9 +6,7 @@ Welcome to the TypeScript Sandbox! This repository is dedicated to providing a s
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Explore Exercises](#explore-exercises)
 - [Run Exercise](#run-exercise)
-- [Repository Structure](#repository-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -34,21 +32,13 @@ Before you begin, make sure you have the following installed on your system:
    cd typescript-sandbox
    ```
 
-### Explore Exercises:
-
-Navigate to the exercises directory to find a variety of TypeScript exercises covering different topics.
-
 ### Run Exercise:
 
-Navigate to the exercises directory, choose your topic and move into the topic's directory. Finally type the following command to run the exercise:
+Navigate to the src directory, choose your topic and move into the topic's directory. Finally type the following command to run the exercise:
 
 ```bash
-node exercise-name
+tsc && node ../dist/exercise-name
 ```
-
-### Repository Structure:
-
-exercises/: Contains individual TypeScript exercises categorized by topic.
 
 ## Contributing
 
