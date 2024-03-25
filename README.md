@@ -47,3 +47,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Connect With Me
+
+I love to connect with fellow developers and learners! You can find me on [LinkedIn](https://www.linkedin.com/in/huzaifahtariq/). Let's share ideas and grow together.
+
+---
+
+Happy coding!
